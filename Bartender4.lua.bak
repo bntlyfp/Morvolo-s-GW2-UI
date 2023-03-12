@@ -1,0 +1,177 @@
+
+Bartender4DB = {
+	["namespaces"] = {
+		["ActionBars"] = {
+			["profiles"] = {
+				["Adunaphel - Smolderthorn (Vanilla+)"] = {
+					["actionbars"] = {
+						{
+							["rows"] = 2,
+							["version"] = 3,
+							["position"] = {
+								["x"] = -287,
+								["point"] = "BOTTOM",
+								["scale"] = 1.05,
+								["y"] = 89,
+							},
+							["padding"] = 0,
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["x"] = -231.4999399218102,
+								["point"] = "CENTER",
+								["y"] = -189.5000120019606,
+							},
+						}, -- [2]
+						{
+							["rows"] = 2,
+							["version"] = 3,
+							["position"] = {
+								["x"] = 50,
+								["point"] = "BOTTOM",
+								["scale"] = 1.05,
+								["y"] = 89,
+							},
+							["padding"] = 0,
+						}, -- [3]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["x"] = -231.4999399218102,
+								["point"] = "CENTER",
+								["y"] = -113.5000407246012,
+							},
+						}, -- [4]
+						{
+							["rows"] = 5,
+							["buttons"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["x"] = -337,
+								["point"] = "BOTTOM",
+								["scale"] = 0.7,
+								["y"] = 86,
+							},
+							["padding"] = 0,
+						}, -- [5]
+						{
+							["rows"] = 5,
+							["buttons"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["x"] = 280,
+								["point"] = "BOTTOM",
+								["scale"] = 0.7,
+								["y"] = 86,
+							},
+							["padding"] = 0,
+						}, -- [6]
+						{
+						}, -- [7]
+						[9] = {
+						},
+						[10] = {
+						},
+					},
+				},
+			},
+		},
+		["MicroMenu"] = {
+			["profiles"] = {
+				["Adunaphel - Smolderthorn (Vanilla+)"] = {
+					["version"] = 3,
+					["padding"] = 6,
+					["position"] = {
+						["x"] = -0.95,
+						["point"] = "TOPLEFT",
+						["scale"] = 0.7,
+						["y"] = 0.94995,
+					},
+				},
+			},
+		},
+		["XPBar"] = {
+			["profiles"] = {
+				["Adunaphel - Smolderthorn (Vanilla+)"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["x"] = -361.2000147205858,
+						["point"] = "BOTTOM",
+						["scale"] = 0.699999988079071,
+						["y"] = 11,
+					},
+				},
+			},
+		},
+		["BlizzardArt"] = {
+		},
+		["BagBar"] = {
+			["profiles"] = {
+				["Adunaphel - Smolderthorn (Vanilla+)"] = {
+					["enabled"] = false,
+					["version"] = 3,
+					["position"] = {
+						["x"] = 58.50008592856636,
+						["point"] = "CENTER",
+						["y"] = 1.500011181313653,
+					},
+				},
+			},
+		},
+		["Vehicle"] = {
+			["profiles"] = {
+				["Adunaphel - Smolderthorn (Vanilla+)"] = {
+					["version"] = 3,
+					["position"] = {
+						["x"] = -254.8652751550321,
+						["point"] = "BOTTOM",
+						["y"] = 181.0092099146999,
+					},
+				},
+			},
+		},
+		["StanceBar"] = {
+			["profiles"] = {
+				["Adunaphel - Smolderthorn (Vanilla+)"] = {
+					["version"] = 3,
+					["position"] = {
+						["x"] = 49.97516243850021,
+						["point"] = "BOTTOM",
+						["scale"] = 1,
+						["y"] = 123.0500068694982,
+					},
+				},
+			},
+		},
+		["PetBar"] = {
+			["profiles"] = {
+				["Adunaphel - Smolderthorn (Vanilla+)"] = {
+					["version"] = 3,
+					["position"] = {
+						["x"] = -310,
+						["point"] = "BOTTOM",
+						["scale"] = 0.75,
+						["y"] = 119,
+					},
+					["padding"] = 1,
+				},
+			},
+		},
+		["RepBar"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Adunaphel - Smolderthorn (Vanilla+)"] = "Adunaphel - Smolderthorn (Vanilla+)",
+	},
+	["profiles"] = {
+		["Adunaphel - Smolderthorn (Vanilla+)"] = {
+			["minimapIcon"] = {
+				["minimapPos"] = 133.1226784619736,
+			},
+		},
+	},
+}

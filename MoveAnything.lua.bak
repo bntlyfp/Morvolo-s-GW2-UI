@@ -1,0 +1,164 @@
+
+MoveAnything_CustomFrames = {
+}
+MoveAnything_CharacterSettings = {
+	["default"] = {
+		["MinimapNorthTag"] = {
+			["name"] = "MinimapNorthTag",
+			["hidden"] = true,
+		},
+		["CastingBarFrame"] = {
+			["name"] = "CastingBarFrame",
+			["pos"] = {
+				"BOTTOM", -- [1]
+				"UIParent", -- [2]
+				"BOTTOM", -- [3]
+				3.501426657938887e-005, -- [4]
+				190.0244031657547, -- [5]
+			},
+		},
+		["MinimapBorderTop"] = {
+			["name"] = "MinimapBorderTop",
+			["hidden"] = true,
+		},
+		["ConsolidatedBuffs"] = {
+			["name"] = "ConsolidatedBuffs",
+			["scale"] = 1.135804581879329,
+			["pos"] = {
+				"TOPRIGHT", -- [1]
+				"UIParent", -- [2]
+				"TOPRIGHT", -- [3]
+				-181.3258918958619, -- [4]
+				-476.0315025361224, -- [5]
+			},
+		},
+		["WatchFrame"] = {
+			["width"] = 205.5801388684962,
+			["originalWidth"] = 204.0000150451927,
+			["originalHeight"] = 140.0000106684094,
+			["height"] = 497.9258054529386,
+			["name"] = "WatchFrame",
+			["pos"] = {
+				"BOTTOMLEFT", -- [1]
+				"UIParent", -- [2]
+				"BOTTOMLEFT", -- [3]
+				1311.456974681198, -- [4]
+				355.4075512232391, -- [5]
+			},
+		},
+		["MinimapZoomIn"] = {
+			["name"] = "MinimapZoomIn",
+			["hidden"] = true,
+		},
+		["MinimapZoneTextButton"] = {
+			["name"] = "MinimapZoneTextButton",
+			["hidden"] = true,
+		},
+		["MinimapCluster"] = {
+			["name"] = "MinimapCluster",
+			["scale"] = 1.086419315182934,
+			["pos"] = {
+				"TOPRIGHT", -- [1]
+				"UIParent", -- [2]
+				"TOPRIGHT", -- [3]
+				2.181347507009747, -- [4]
+				-600.000116189532, -- [5]
+			},
+		},
+		["WorldStateAlwaysUpFrame"] = {
+			["name"] = "WorldStateAlwaysUpFrame",
+			["pos"] = {
+				"TOP", -- [1]
+				"UIParent", -- [2]
+				"TOP", -- [3]
+				-685.8518605193012, -- [4]
+				-17.92597395909679, -- [5]
+			},
+		},
+		["UIErrorsFrame"] = {
+			["name"] = "UIErrorsFrame",
+			["pos"] = {
+				"TOP", -- [1]
+				"UIParent", -- [2]
+				"TOP", -- [3]
+				1.750713328969444e-005, -- [4]
+				-204.1728804794165, -- [5]
+			},
+		},
+		["TooltipMover"] = {
+			["name"] = "TooltipMover",
+			["pos"] = {
+				"TOP", -- [1]
+				"UIParent", -- [2]
+				"TOP", -- [3]
+				421.9260092469121, -- [4]
+				-402.9629477252729, -- [5]
+			},
+		},
+		["MinimapZoomOut"] = {
+			["name"] = "MinimapZoomOut",
+			["hidden"] = true,
+		},
+		["TargetFrame"] = {
+			["name"] = "TargetFrame",
+			["scale"] = 0.856959862333571,
+			["pos"] = {
+				"BOTTOMLEFT", -- [1]
+				"UIParent", -- [2]
+				"BOTTOMLEFT", -- [3]
+				769.1273018204478, -- [4]
+				897.1797969596538, -- [5]
+			},
+		},
+		["BuffFrame"] = {
+			["name"] = "BuffFrame",
+			["scale"] = 0.8261707129298493,
+			["pos"] = {
+				"TOPRIGHT", -- [1]
+				"ConsolidatedBuffs", -- [2]
+				"TOPRIGHT", -- [3]
+				-6.171557098123904e-005, -- [4]
+				-3.284967746886204e-006, -- [5]
+			},
+		},
+		["DurabilityFrame"] = {
+			["name"] = "DurabilityFrame",
+			["pos"] = {
+				"BOTTOMLEFT", -- [1]
+				"UIParent", -- [2]
+				"BOTTOMLEFT", -- [3]
+				1035.086427177746, -- [4]
+				214.0184195558509, -- [5]
+			},
+		},
+		["ConsolidatedBuffsTooltip"] = {
+			["name"] = "ConsolidatedBuffsTooltip",
+			["pos"] = {
+				"TOPLEFT", -- [1]
+				"UIParent", -- [2]
+				"TOPLEFT", -- [3]
+				0, -- [4]
+				-4.968347980138788e-005, -- [5]
+			},
+		},
+		["MiniMapWorldMapButton"] = {
+			["name"] = "MiniMapWorldMapButton",
+			["hidden"] = true,
+		},
+		["PlayerFrame"] = {
+			["name"] = "PlayerFrame",
+			["scale"] = 0.4891445592586998,
+			["pos"] = {
+				"TOPLEFT", -- [1]
+				"UIParent", -- [2]
+				"TOPLEFT", -- [3]
+				1431.09484127014, -- [4]
+				-1557.265870366264, -- [5]
+			},
+		},
+	},
+}
+MoveAnything_UseCharacterSettings = nil
+MADB = {
+	["collapsed"] = true,
+}
